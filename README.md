@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Redowan-Ahmed A full-stack developer 
+- 👋 Hi, I’m @Redowan-Ahmed A Full-Stack WEB Developer 
 - 👀 I’m interested in Django, React + NextJS, Javascript, Python, Mysql, Tailwind Css, 
-- Wordpress, Theme Development, Programming Etc
+- Wordpress, Theme Development, AI(Matching lerning, Deep lerning, Data Science & Structure) Programming Etc
 - 🌱 I’m currently learning Django, python and React - Redux 
 - 📫 How to reach me 
 - 😃Portfolio: https://redowan-ahmed.github.io/Portfolio/
 - Facebook: https://www.facebook.com/DevRedowanAhmed
+- Linkdin: https://www.linkedin.com/in/dev-redowa-ahmed/
 - Whatsapp: https://wa.me/8801632398271
 - Fiverr: https://www.fiverr.com/web_dev_redowan
 - Upwork: https://www.upwork.com/freelancers/~01d3b0dd2146b04774
+- Email: Redowan.ahmed.dev@gmail.com
