@@ -43,7 +43,7 @@ HTML     -       ████████████████░░░░░
  </div>
  <h3> - 📫 How to reach me : </h3>
  <a href="https://redowan-ahmed.github.io/Portfolio/">
-  <img align="left" alt="Redowan's Portfolio website" width="102px" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/redowan.gif" />
+  <img align="left" alt="Redowan's Portfolio website" width="102px" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/redowan-ahmed.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/dev-redowa-ahmed/">
   <img align="left" alt="Redowan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
