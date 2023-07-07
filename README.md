@@ -65,5 +65,3 @@ CSS      -       █████████████████████
   <img align="left" alt="Redowan's Facebook" width="32px" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/Facebook_Logo.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
