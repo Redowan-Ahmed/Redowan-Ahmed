@@ -65,3 +65,4 @@ CSS      -       █████████████████████
   <img align="left" alt="Redowan's Facebook" width="32px" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/Facebook_Logo.png" />
 </a>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redowan-Ahmed&layout=donut-vertical)](https://github.com/Redowan-Ahmed/github-readme-stats)
