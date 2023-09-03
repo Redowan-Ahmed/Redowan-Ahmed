@@ -19,8 +19,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
+
 <div align="left">
-<h3> 📊HOW EVERYDAY I SEPENT MY TIME ON :</h3>
+<h3> 📊HOW EVERYDAY I SPENT MY TIME ON:</h3>
 <!--START_SECTION:waka-->
 
 ```text
@@ -40,7 +41,7 @@ CSS      -       █████████████████████
  </div>
  </div>
 <div align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=Redowan-Ahmed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Redowan's Github Stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=Redowan-Ahmed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Redowan Ahmed's Github Stats">
  </div>
  <h3> - 📫 How to reach me : </h3>
  <a href="https://redowan-ahmed.github.io/Portfolio/">
