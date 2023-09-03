@@ -19,6 +19,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
+<div align="left">
+  <img src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/code.gif" alt="Redowan Ahmed, Redowan Ahmed Dev" >
+</div>
 
 <div align="left">
 <h3> 📊HOW EVERYDAY I SPENT MY TIME ON:</h3>
