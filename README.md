@@ -50,8 +50,8 @@ CSS      -       █████████████████████
  <a href="https://redowan-ahmed.github.io/Portfolio/">
   <img align="left" alt="Redowan's Portfolio website" width="32px" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/redowan-ahmed.jpg" />
 </a>
-<a href="https://www.linkedin.com/in/dev-redowa-ahmed/">
-  <img align="left" alt="Redowan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/dev-redowan-ahmed/">
+  <img align="left" alt="Redowan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/circle-linkedin-512.webp" />
 </a>
 <a href="mailto:redowan.ahmed.dev@gmail.com">
   <img align="left" alt="Redowan's email" width="32px" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/gmail.png" />
