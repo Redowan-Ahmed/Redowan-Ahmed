@@ -2,7 +2,7 @@
 <h1> Hi, I’m < Redowan-Ahmed />! A Full-Stack WEB Developer <img src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/Hi.gif" width="30"></h1>
 </div>
 <div align="left">
-- 👀 I’m interested in Django, React + NextJS, Javascript, Python, Mysql, Tailwind Css, <br/>
+- 👀 I’m interested in Django, React + NextJS, Javascript, Python, Mysql, PostgreSQL, Tailwind CSS, <br/>
 - Wordpress, Theme Development, AI(Matching lerning, Deep lerning, Data Science & Structure) Programming Etc <br/>
 - 🌱 I’m currently learning Django, python ,React - Nextjs & AI(Matching lerning, Deep lerning, Data Science & Structure) <br/>
 <div align="left">
