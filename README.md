@@ -15,9 +15,12 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/python.jpg"></code>
 <code><img height="30" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/django-icon-0.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/mysq.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/AWS.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/Azure.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/Jenkins.png"></code>
 </div>
 <div align="left">
   <img src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/code.gif" alt="Redowan Ahmed, Redowan Ahmed Dev" >
