@@ -4,7 +4,7 @@
 <div align="left">
 - 👀 I’m interested in Django, React + NextJS, Javascript, Python, Mysql, PostgreSQL, Tailwind CSS, <br/>
 - Wordpress, Theme Development, AI(Matching learning, Deep learning, Data Science & Structure) Programming Etc <br/>
-- 🌱 I’m currently learning Django, python, React - Nextjs & AI(Matching learning, Deep learning, Data Science & Structure) <br/>
+- 🌱 I’m currently learning Django, DRF, Graphql, React - Nextjs & AI(Matching learning, Deep learning, Data Science & Structure) <br/>
 <div align="left">
 <h3>languages and tools I use :</h3>
 
@@ -31,9 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python    -      ██████████████████████▓░░░░   94.54 %
-Django    -      ████████████████████▓░░░░░░   85.16 %
-DRF       -      ██████████████████▓░░░░░░░░   74.14 %
+Python    -      ██████████████████████░░░░░   94.54 %
+Django    -      ████████████████████░░░░░░░   85.16 %
+DRF       -      ██████████████████░░░░░░░░░   74.14 %
 JavaScript  -    ██████░░░░░░░░░░░░░░░░░░░░░   23.71 %
 React + Nextjs-  █████████████░░░░░░░░░░░░░░   65.35 %
 Terminal -       ██████████████████████████░   98.77 %
