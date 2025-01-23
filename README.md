@@ -4,7 +4,7 @@
 <div align="left">
 - 👀 I’m interested in Django, FastApi, React + NextJS, Javascript, Python, Mysql, PostgreSQL, Tailwind, CSS, Ruby, Linux, CLI, Custom Server, AWS, Automation,<br/>
 - Wordpress, Theme Development, AI(Matching learning, Deep learning, Data Science & Structure) Programming Etc <br/>
-- 🌱 I’m currently learning Graphql, React - Nextjs & AI(Matching learning, Deep learning, Data Science & Structure) <br/>
+- 🌱 I’m currently learning AI(Matching learning, Deep learning, Data Science & Structure) <br/>
 <div align="left">
 <h3>languages and tools I use :</h3>
 
