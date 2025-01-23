@@ -25,11 +25,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/ICON_-_White_on_Transparent.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/Jira.webp"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/1664624748-1.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/1670420866062.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/celery.webp"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/919853.png"></code>
 
 
