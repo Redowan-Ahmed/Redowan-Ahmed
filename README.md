@@ -2,8 +2,9 @@
 <h1> Hi, I’m < Redowan-Ahmed />! A Full-Stack Software Engineer <img src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/Hi.gif" width="30"></h1>
 </div>
 <div align="left">
-- 👀 I’m interested in Django, FastApi, React + NextJS, Javascript, Python, Mysql, PostgreSQL, Tailwind, CSS, Ruby, Linux, CLI, Custom Server, AWS, Automation,<br/>
+- 👀 I’m ❤️ to work 💪 and use these Django, FastApi, React + NextJS, Javascript, Zustand, Jira, Python, Mysql, PostgreSQL, Tailwind, CSS, Ruby, Linux, CLI, Jenkins, Apache Kafka, Apache Zookeeper, Kafka Stream, FFMPEG, Celery, Faust, K8S, Nginx and Nginx Reverse Proxy, Redis, Cloudflare, RabbitMq, Websocket, Rest API, Litespeed Tech, Golang, Scylladb, Mysql, Custom Server, AWS, Automation,<br/>
 - Wordpress, Theme Development, AI(Matching learning, Deep learning, Data Science & Structure) Programming Etc <br/>
+- I always ❤️ to learn new things to keep myself updated on the latest technologies. Since 2017 I've continuously updated myself with all the latest technologies to provide perfect solutions to build scalable applications. 
 - 🌱 I’m currently learning AI(Matching learning, Deep learning, Data Science & Structure) <br/>
 <div align="left">
 <h3>languages and tools I use :</h3>
