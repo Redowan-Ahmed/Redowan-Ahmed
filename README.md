@@ -69,7 +69,7 @@ AWS      -       █████████████████████
  <a href="https://redowan.mercegrower.com/">
   <img align="left" alt="Redowan's Portfolio website" width="32px" src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/redowan-ahmed.jpg" />
 </a>
-<a href="https://www.linkedin.com/in/dev-redowan-ahmed/">
+<a href="https://www.linkedin.com/in/redowan-ahmed-engr/">
   <img align="left" alt="Redowan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/Redowan-Ahmed/Redowan-Ahmed/master/circle-linkedin-512.webp" />
 </a>
 <a href="mailto:redowan.ahmed.dev@gmail.com">
