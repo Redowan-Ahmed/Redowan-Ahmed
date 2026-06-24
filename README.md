@@ -2,7 +2,7 @@
 <h1> Hi, I’m < Redowan-Ahmed />! A Senior Software Engineer <img src="https://github.com/Redowan-Ahmed/Redowan-Ahmed/blob/master/Hi.gif" width="30"></h1>
 </div>
 <div align="left">
-- 👀 I ❤️ to work 💪 and use these Django, FastApi, React + NextJS, Javascript, Zustand, Jira, Python, Mysql, PostgreSQL, Tailwind, CSS, Ruby, Linux, CLI, Jenkins, Apache Kafka, Apache Zookeeper, Kafka Stream, FFMPEG, Celery, Faust, K8S, Nginx and Nginx Reverse Proxy, Redis, Cloudflare, RabbitMq, Websocket, Rest API, Litespeed Tech, Golang, Scylladb, Mysql, Custom Server, AWS, Docker, Automation,<br/>
+- 👀 I ❤️ to work 💪 and use these Django, FastApi, React + NextJS, Javascript, Zustand, Jira, Python, Mysql, PostgreSQL, Tailwind, CSS, Linux, CLI, Jenkins, Apache Kafka, Apache Zookeeper, Apache Kafka, Apache Flink, FFMPEG, Celery, Faust, K8S, Nginx and Nginx Reverse Proxy, Redis, Cloudflare, RabbitMq, Websocket, Rest API, Litespeed Tech, Golang, Scylladb, Mysql, Custom Server, AWS, Docker, Automation,<br/>
 - Wordpress, Theme Development, AI(Matching learning, Deep learning, Data Science & Structure) Programming Etc <br/>
 - I always ❤️ to learn new things to keep myself updated on the latest technologies. Since 2017 I've continuously updated myself with all the latest technologies to provide perfect solutions to build scalable applications. 
 - 🌱 I’m currently learning AI(Matching learning, Deep learning, Data Science,  Data Structures & Algorithms) <br/>
